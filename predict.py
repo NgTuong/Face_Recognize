@@ -58,6 +58,7 @@ def main(args):
                         k+=1
                 add_overlays(frame, faces)
                 cv2.imshow("lkk",frame)
+                cv2.imwrite("result.png",frame)
                 cv2.waitKey(0)
                 cv2.destroyAllWindows()
 				
