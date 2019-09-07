@@ -15,3 +15,5 @@
 - facenet.py: mục đích load model inception_resnet v1, load dữ liệu
 
 - predict.py: file dùng để dự nhận diện mặt người - "python predict.py ten_anh_muon_nhan_dien 201804002-1147759.pb classifier.pkl"
+
+- classifier.pkl: file chứa trọng số huấn luyện SVM
