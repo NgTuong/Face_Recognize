@@ -23,7 +23,6 @@ Bài toán nhận khuôn mặt sử dụng mô hình detect face là [MTCNN](htt
 các khuôn mặt 
 
 ## Kết quả nhận diện
-test với đối tượng nằm trong CSDL
 <img src="result.png">
 
 ## Thư viện yêu cầu
