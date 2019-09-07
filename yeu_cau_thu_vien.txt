@@ -1,0 +1,6 @@
+cmd: pip install
++ tensorflow==1.17
++ opencv-python
++ numpy==1.16.1
++ sklearn
++ scikit-learn
